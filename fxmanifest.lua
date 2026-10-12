@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'AICORE_Scrapyard'
-repository 'https://github.com/0error-scripts/aicore_scrapyard'
+repository 'https://github.com/aicore-fivem/aicore_scrapyard'
 version '1.0.0'
 
 ox_lib 'locale'
